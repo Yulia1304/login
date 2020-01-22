@@ -1,0 +1,11 @@
+.loginWraper{
+    text-align: center;
+    margin: 100px;
+}
+.reg{
+    text-align: center;
+}
+
+.error{
+    color: blueviolet;
+}
